@@ -1,0 +1,10 @@
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\obj\Debug\dotnet_forms_win.csprojResolveAssemblyReference.cache
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\obj\Debug\dotnet_forms.Base_Form.resources
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\obj\Debug\dotnet_forms_win.Properties.Resources.resources
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\obj\Debug\dotnet_forms_win.csproj.GenerateResource.Cache
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\bin\Debug\dotnet_forms_win.exe.config
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\bin\Debug\dotnet_forms_win.exe
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\bin\Debug\dotnet_forms_win.pdb
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\obj\Debug\dotnet_forms_win.exe
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\obj\Debug\dotnet_forms_win.pdb
+C:\Local_Code\repos\dotnet_forms\dotnet_forms_win\dotnet_forms_win\obj\Debug\dotnet_forms.Multi_Tab_Editor_Form.resources
